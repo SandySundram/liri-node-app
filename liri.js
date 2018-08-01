@@ -55,8 +55,9 @@ if ((app != 'my-tweets') && (app != 'spotify-this-song') && (app != 'movie-this'
                 omdbAPI(app[1].trim()); 
             }else{
                 omdbAPI(app[1]);
-            }
-               
+            }   
+        }else if (app[0] == 'my-tweets'){
+            twitterAPI(); 
         }
     });
 }
