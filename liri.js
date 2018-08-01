@@ -26,7 +26,9 @@ if ((app != 'my-tweets') && (app != 'spotify-this-song') && (app != 'movie-this'
     writeToLog('\n'+"command not found: Please enter a valid command");
 
 }else if(app == 'my-tweets'){
+
     twitterAPI();
+
 }else if(app == 'spotify-this-song'){
 
     spotifyAPI(process.argv[3]);
@@ -41,7 +43,7 @@ if ((app != 'my-tweets') && (app != 'spotify-this-song') && (app != 'movie-this'
             writeToLog('\n'+'Error occurred: ' + err);
             return console.log('Error occurred: ' + err);
         }
-        app = (data.split(','));
+        app = data.split(",");
         if(app[0] == 'spotify-this-song'){
             input = 'Read from random.txt: '+app[0]+' '+app[1];
             writeToLog('\n'+input);
@@ -49,7 +51,12 @@ if ((app != 'my-tweets') && (app != 'spotify-this-song') && (app != 'movie-this'
         }else if(app[0] == 'movie-this'){
             input = 'Read from random.txt: '+app[0]+' '+app[1];
             writeToLog('\n'+input);
-            omdbAPI(app[1]);    
+            if(app[1] != null){
+                omdbAPI(app[1].trim()); 
+            }else{
+                omdbAPI(app[1]);
+            }
+               
         }
     });
 }
@@ -103,6 +110,7 @@ function omdbAPI(movie){
         writeToLog('\n'+"Since you did not enter a movie name, we selected one for you...");
     }
     var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+    console.log(queryUrl);
     request(queryUrl,function(error,response,body){
         if(!error && response.statusCode === 200){
             output = '\n'+"Movie Title: "+JSON.parse(body).Title+'\n'+

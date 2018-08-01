@@ -1,0 +1,75 @@
+Wed, 01 Aug 2018 22:17:41 GMT-------------------------------------------NEW CALL-------------------------------------------
+User input at command: C:\Program Files\nodejs\node.exe C:\Users\NicolaSequeira\Documents\Sandy\Bootcamp\Code\Week-12-NodeJS\liri-node-app\liri.js my-tweets
+Wed, 01 Aug 2018 22:17:41 GMT
+Output:
+Last 20 tweets --
+"We are excited to join #CallforCode 🎉 Want to learn more about this initiative? Check out this post from… https://t.co/QJ8O3dLsd0'... created @ Wed Aug 01 19:58:00 +0000 2018
+---------------
+"RT @nearForm: A Day in the life of a #Nodejs core contributor. 
+@jasnell pulls back the curtains on how things work within the @nodejs core…'... created @ Wed Aug 01 16:12:21 +0000 2018
+---------------
+"RT @bitandbang: 📈 @nodejs has significantly surpassed 1 trillion downloads
+
+Sources:
+📊 Official Node.js Metrics site: ~747,019,000 download…'... created @ Mon Jul 30 22:16:36 +0000 2018
+---------------
+"#jsinteractive has received over 300 applicants for our diversity scholarship. We would 💜 to offer as many scholars… https://t.co/KIRmPnROul'... created @ Mon Jul 30 15:53:01 +0000 2018
+---------------
+"RT @speedynoise: Great session using @nodejs to build an Alexa skill! Check it out! 👇 /cc @alexadevs https://t.co/vnMn61ngdG'... created @ Wed Aug 01 16:40:44 +0000 2018
+---------------
+"RT @liran_tal: 🧐 are you using the Node.js Security WG vulnerabilities db ?
+🤔 are you using any other open/free vulnerabilities db for Node…'... created @ Mon Jul 30 14:42:43 +0000 2018
+---------------
+"Tutorial: Building a Facebook Messenger Chat bot with #nodejs from Waleed Ahmad: https://t.co/yEvYGXXfGm'... created @ Fri Jul 27 22:20:00 +0000 2018
+---------------
+"@vjrngn Were you looking to be a mentor or mentee?'... created @ Fri Jul 27 18:39:20 +0000 2018
+---------------
+"🎉🎉🎉 https://t.co/JoYcevf6Jo'... created @ Fri Jul 27 18:38:34 +0000 2018
+---------------
+"In our latest #enterpriseconversation we talked with @ViriCiti about how they use #nodejs for real-time electric ve… https://t.co/LUHTFnaYvZ'... created @ Fri Jul 27 17:21:01 +0000 2018
+---------------
+"RT @NodeSource: ⚡️ The @nodejs Mentorship Initiative meeting is now live on YouTube: https://t.co/GEcJydSu2h'... created @ Fri Jul 27 16:28:32 +0000 2018
+---------------
+"RT @the_jsf: .@dhimil recently explained why @BrowserStack wrote a simple pubsub in-house using @nodejs and Redis via @smashingmag. Read al…'... created @ Fri Jul 27 16:10:33 +0000 2018
+---------------
+"RT @RisingStack: Make sure you don't miss the most important #nodejs &amp; #javascript news of this week:
+
+🧐 Chrome Labs introduces ndb
+🎓 Linke…'... created @ Fri Jul 27 12:54:29 +0000 2018
+---------------
+"Two frameworks have appeared on the scene recently eschewing the long held belief that end to end testing of web ap… https://t.co/caPzv6QQXC'... created @ Thu Jul 26 19:26:01 +0000 2018
+---------------
+"RT @Vikram_Tiwari: .@nodejs is now available on all the platforms on @googlecloud #GoogleNext18 https://t.co/38W2Vmf4si'... created @ Thu Jul 26 19:10:51 +0000 2018
+---------------
+"Thank you to those that keep the Node.js builds going through infrastructure donations. Check out the list here:… https://t.co/DGbQFNhDmR'... created @ Wed Jul 25 22:00:03 +0000 2018
+---------------
+"RT @ohhoe: ✨ big news ✨
+
+Im starting a twitch stream &amp; youtube channel to help devs feel ok with not knowing everything &amp; make them empower…'... created @ Wed Jul 25 21:52:16 +0000 2018
+---------------
+"The Node.js Foundation team is at #NodeSummit and here to talk to you about the Foundation and how to get more invo… https://t.co/EC1J6DHVRD'... created @ Wed Jul 25 21:40:10 +0000 2018
+---------------
+"RT @fhinkel: Are you at #GoogleNext18 and want to talk about open source work we do at @GCPcloud for @nodejs? Come talk to me, @MylesBorins…'... created @ Wed Jul 25 21:06:40 +0000 2018
+---------------
+"✨@gauravseth discusses why @msdev contributes to #nodejs and supports the Node.js Foundation in this #nfspotlight: https://t.co/v9jyblGgD2'... created @ Mon Jul 30 20:25:02 +0000 2018
+---------------
+Wed, 01 Aug 2018 22:17:57 GMT-------------------------------------------NEW CALL-------------------------------------------
+User input at command: C:\Program Files\nodejs\node.exe C:\Users\NicolaSequeira\Documents\Sandy\Bootcamp\Code\Week-12-NodeJS\liri-node-app\liri.js my-tweet
+Wed, 01 Aug 2018 22:17:57 GMT
+command not found: Please enter a valid command
+Wed, 01 Aug 2018 22:18:02 GMT-------------------------------------------NEW CALL-------------------------------------------
+User input at command: C:\Program Files\nodejs\node.exe C:\Users\NicolaSequeira\Documents\Sandy\Bootcamp\Code\Week-12-NodeJS\liri-node-app\liri.js movie-thi
+Wed, 01 Aug 2018 22:18:02 GMT
+command not found: Please enter a valid command
+Wed, 01 Aug 2018 22:18:11 GMT-------------------------------------------NEW CALL-------------------------------------------
+User input at command: C:\Program Files\nodejs\node.exe C:\Users\NicolaSequeira\Documents\Sandy\Bootcamp\Code\Week-12-NodeJS\liri-node-app\liri.js spotify-this-son
+Wed, 01 Aug 2018 22:18:11 GMT
+command not found: Please enter a valid command
+Wed, 01 Aug 2018 22:18:19 GMT
+command not found: Please enter a valid command
+Wed, 01 Aug 2018 22:18:19 GMT-------------------------------------------NEW CALL-------------------------------------------
+User input at command: C:\Program Files\nodejs\node.exe C:\Users\NicolaSequeira\Documents\Sandy\Bootcamp\Code\Week-12-NodeJS\liri-node-app\liri.js
+Wed, 01 Aug 2018 22:18:23 GMT-------------------------------------------NEW CALL-------------------------------------------
+User input at command: C:\Program Files\nodejs\node.exe C:\Users\NicolaSequeira\Documents\Sandy\Bootcamp\Code\Week-12-NodeJS\liri-node-app\liri.js
+Wed, 01 Aug 2018 22:18:23 GMT
+command not found: Please enter a valid command
