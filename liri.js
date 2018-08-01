@@ -18,9 +18,8 @@ var loopFlag = 0;
 var dt = new Date();
 var utcDate = dt.toUTCString();
 
-writeToLog('-------------------------------------------NEW CALL-------------------------------------------')
 input = 'User input at command: '+process.argv.join(" ");
-writeToLog('\n'+input);
+writeToLog('-------------------------------------------NEW CALL-------------------------------------------'+'\n'+input);
 
 if ((app != 'my-tweets') && (app != 'spotify-this-song') && (app != 'movie-this') && (app != 'do-what-it-says')){
     console.log("command not found: Please enter a valid command");
