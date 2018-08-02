@@ -43,7 +43,9 @@ if ((app != 'my-tweets') && (app != 'spotify-this-song') && (app != 'movie-this'
             writeToLog('\n'+'Error occurred: ' + err);
             return console.log('Error occurred: ' + err);
         }
+
         app = data.split(",");
+        
         if(app[0] == 'spotify-this-song'){
             input = 'Read from random.txt: '+app[0]+' '+app[1];
             writeToLog('\n'+input);
@@ -139,6 +141,5 @@ function writeToLog(logs){
         addToFile = dt.toUTCString()+logs+'\n';
     }
     fs.appendFile("./log.txt",addToFile,function(){
-
     })
 }
